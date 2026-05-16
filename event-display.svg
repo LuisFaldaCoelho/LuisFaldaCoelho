@@ -1,5 +1,6 @@
-ok this is what I have <svg viewBox="0 0 900 900" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 900 900" xmlns="http://www.w3.org/2000/svg">
 
+  
   <!-- BACKGROUND -->
   <rect width="100%" height="100%" fill="white"/>
 
@@ -238,4 +239,4 @@ ok this is what I have <svg viewBox="0 0 900 900" xmlns="http://www.w3.org/2000/
 
   </circle>
 
-</svg>e
+</svg>
